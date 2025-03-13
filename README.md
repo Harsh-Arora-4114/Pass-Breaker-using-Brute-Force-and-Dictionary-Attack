@@ -83,4 +83,4 @@ This project is open-source and available under the MIT License.
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## Author
-Developed by **Harsh Arora**
+Developed by **Harsh Arora**.
